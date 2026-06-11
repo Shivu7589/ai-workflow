@@ -1,0 +1,6 @@
+{
+    "chart_type": "line",
+    "title": "Monthly Temperature by City",
+    "maping": { "x": "month", "y": "temp_c", "color": "city" },
+    "output": "html"
+}

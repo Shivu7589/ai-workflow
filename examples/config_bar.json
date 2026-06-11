@@ -1,0 +1,8 @@
+{
+    "chart_type": "bar",
+    "title": "Revenue by Region (2025, by product)",
+    "mapping": { "x": "region", "y": "revenue", "color" : "product"},
+    "aggregation": { "column" : "revenue", "func": "sum" },
+    "filters": [{ "column": "year", "op": "eq", "value": 2025 }],
+    "output": "html"
+}

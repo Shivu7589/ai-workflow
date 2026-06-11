@@ -1,0 +1,27 @@
+.venv/
+venv/
+
+#python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# build / packaging artefacts
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# environment
+.env
+.env.local
+
+# outputs
+chart.html
+*.png
+
+# editor / OS
+.vscode
+.idea
+.DS_Store
+Thumbs.db

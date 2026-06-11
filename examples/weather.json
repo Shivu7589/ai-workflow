@@ -1,0 +1,12 @@
+{
+    "data": [
+        { "month": "Jan", "temp_c": 5.2, "city": "Berlin" },
+        { "month": "Feb", "temp_c": 6.1, "city": "Berlin" }
+        { "month": "Mar", "temp_c": 9.8, "city": "Berlin" }
+        { "month": "Apr", "temp_c": 13.4, "city": "Berlin" }
+        { "month": "Jan", "temp_c": 8.9, "city": "Madrid" }
+        { "month": "Feb", "temp_c": 10.1, "city": "Madrid" }
+        { "month": "Mar", "temp_c": 13.7, "city": "Madrid" }
+        { "month": "Apr", "temp_c": 16.0, "city": "Madrid" }
+    ]
+}

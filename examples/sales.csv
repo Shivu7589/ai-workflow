@@ -1,0 +1,14 @@
+region,product,year,revenue,units
+North,Widget,2024,1200,300
+North,Gadget,2024,800,150
+South,Widget,2024,900,220
+South,Gadget,2024,1500,260
+East,Widget,2024,700,180
+East,Gadget,2024,1100,210
+North,Widget,2025,1600,360
+North,Gadget,2025,950,170
+South,Widget,2025,1100,260
+South,Gadget,2025,1750,300
+East,Widget,2025,820,200
+East,Gadget,2025,1300,240
+
